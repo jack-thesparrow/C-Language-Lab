@@ -1,0 +1,3 @@
+/home/rahul/devEnv/clang/practice/test/ninja/CMakeFiles/main.dir
+/home/rahul/devEnv/clang/practice/test/ninja/CMakeFiles/edit_cache.dir
+/home/rahul/devEnv/clang/practice/test/ninja/CMakeFiles/rebuild_cache.dir
